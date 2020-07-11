@@ -9,3 +9,7 @@ In this project I'm creating a simple but useful blog aplication with Django.
  * Added Latest post section.
  * Added Custom template filters.
  * Added Markdown support for posts.
+
+### version 1.7.x
+* Added sitemap
+* Added rss feed
