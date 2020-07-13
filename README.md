@@ -13,3 +13,7 @@ In this project I'm creating a simple but useful blog aplication with Django.
 ### version 1.7.x
 * Added sitemap
 * Added rss feed
+
+### version 1.8.x
+* Added full text search engine.
+* Added support for trigram similarities
